@@ -105,3 +105,6 @@
 	whitespace = red reverse
 [push]
 	default = simple
+[user]
+	name = dsebban
+	email = daniel.sebban@gmail.com
