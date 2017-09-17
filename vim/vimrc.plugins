@@ -527,6 +527,9 @@ if count(g:dotvim_groups, 'youcompleteme')
   endif
 endif
 
+Plug 'derekwyatt/vim-scala'
+Plug 'airblade/vim-gitgutter'
+
 " If user have own plugins or configs, load them here
 if filereadable(expand("~/.vimrc.plugins.local"))
   source ~/.vimrc.plugins.local
